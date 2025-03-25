@@ -1,0 +1,10 @@
+langchain 
+transformers 
+sentence-transformers 
+chromadb 
+python-dotenv 
+fastapi 
+uvicorn 
+torch 
+arxiv 
+pymupub
